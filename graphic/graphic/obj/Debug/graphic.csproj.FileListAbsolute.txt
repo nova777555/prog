@@ -1,0 +1,10 @@
+D:\Programming\graphic\graphic\bin\Debug\graphic.exe.config
+D:\Programming\graphic\graphic\bin\Debug\graphic.exe
+D:\Programming\graphic\graphic\bin\Debug\graphic.pdb
+D:\Programming\graphic\graphic\obj\Debug\graphic.csprojAssemblyReference.cache
+D:\Programming\graphic\graphic\obj\Debug\graphic.Form1.resources
+D:\Programming\graphic\graphic\obj\Debug\graphic.Properties.Resources.resources
+D:\Programming\graphic\graphic\obj\Debug\graphic.csproj.GenerateResource.cache
+D:\Programming\graphic\graphic\obj\Debug\graphic.csproj.CoreCompileInputs.cache
+D:\Programming\graphic\graphic\obj\Debug\graphic.exe
+D:\Programming\graphic\graphic\obj\Debug\graphic.pdb
