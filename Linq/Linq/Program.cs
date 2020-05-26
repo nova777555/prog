@@ -213,7 +213,7 @@ namespace Linq
             int n;
             Console.WriteLine("Введите количество клиентов");
             n = int.Parse(Console.ReadLine());
-            Console.WriteLine("Введите информацию о клиентах(код, год, месяц, часы):");
+            Console.WriteLine("Введите информацию о клиентах:");
             Console.WriteLine("-----------------------------");
             for (int i = 0; i < n; i++)
             {
