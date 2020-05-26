@@ -252,6 +252,7 @@ namespace Linq
                 case 9: task9(); break;
                 case 10: task10(); break;
             }
+            Console.ReadKey();
         }
     }
 }
